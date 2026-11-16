@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+# your own notes, not part of the repo
+*.in
+*.xnote
